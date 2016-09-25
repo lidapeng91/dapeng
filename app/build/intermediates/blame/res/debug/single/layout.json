@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qrcode.xml",
+        "source": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\src\\main\\res\\layout\\activity_qrcode.xml"
+    },
+    {
+        "merged": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\res\\merged\\debug\\layout\\merge_camera_preview_view_finder.xml",
+        "source": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\exploded-aar\\barcodescanner-core-1.8.4\\res\\layout\\merge_camera_preview_view_finder.xml"
+    },
+    {
+        "merged": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment.xml",
+        "source": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\src\\main\\res\\layout\\comment.xml"
+    },
+    {
+        "merged": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish.xml",
+        "source": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\src\\main\\res\\layout\\activity_publish.xml"
+    },
+    {
+        "merged": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play.xml",
+        "source": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\src\\main\\res\\layout\\activity_play.xml"
+    }
+]

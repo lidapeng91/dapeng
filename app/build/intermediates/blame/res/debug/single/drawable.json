@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progress_drawable.xml",
+        "source": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\src\\main\\res\\drawable\\seekbar_progress_drawable.xml"
+    },
+    {
+        "merged": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\resolution_radio.xml",
+        "source": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\src\\main\\res\\drawable\\resolution_radio.xml"
+    },
+    {
+        "merged": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_seekbar_progress.xml",
+        "source": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\src\\main\\res\\drawable\\play_seekbar_progress.xml"
+    },
+    {
+        "merged": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "F:\\zhibo\\demo\\TX_RTMPSDK_Android_1.6.0.475\\TX_RTMPSDK_Android_1.6.0.475\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    }
+]
